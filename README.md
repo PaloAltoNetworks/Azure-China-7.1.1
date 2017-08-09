@@ -1,1 +1,0 @@
-# Azure-China-7.1.1
