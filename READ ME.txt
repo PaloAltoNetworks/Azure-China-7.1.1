@@ -1,0 +1,3 @@
+This template will deploy VM-Series firewall. It works with existing or new VNET, Resource Group and Storage Account.
+
+** This template is specifically used for deploying vmseies in Chain region.
